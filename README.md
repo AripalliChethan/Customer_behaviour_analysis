@@ -12,11 +12,11 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ## Dataset used
 - <a href="https://github.com/AripalliChethan/Customer_behaviour_analysis/blob/main/customer_shopping_behavior.csv">DataSet</a>
 
---> Analysis in Python<a href="https://github.com/AripalliChethan/Customer_behaviour_analysis/blob/main/Customer_Shoppingbehaviour.ipynb">View Data in Python</a>
+--> Analysis in Python:<a href="https://github.com/AripalliChethan/Customer_behaviour_analysis/blob/main/Customer_Shoppingbehaviour.ipynb">View Data in Python</a>
 
---> Analysis in Sql<a href="https://github.com/AripalliChethan/Customer_behaviour_analysis/blob/main/Customer%20Shopping%20Behaviour%20Analysis.sql.sql">View Data operations on SQL</a>
+--> Analysis in Sql: <a href="https://github.com/AripalliChethan/Customer_behaviour_analysis/blob/main/Customer%20Shopping%20Behaviour%20Analysis.sql.sql">View Data operations on SQL</a>
 
---> Dashboard in PowerBI <a href="https://github.com/AripalliChethan/Customer_behaviour_analysis/blob/main/Customer%20behaviour%20dashboard.pbix">View DashBoard in PowerBI</a>
+--> Dashboard in PowerBI: <a href="https://github.com/AripalliChethan/Customer_behaviour_analysis/blob/main/Customer%20behaviour%20dashboard.pbix">View DashBoard in PowerBI</a>
 
 ## Process
 
